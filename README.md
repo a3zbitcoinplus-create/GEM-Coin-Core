@@ -1,4 +1,4 @@
-# 💎 GEM Coin (A3Z Edition)
+![GEM Coin Logo](1777489370116.png)# 💎 GEM Coin (A3Z Edition)
 
 **GEM Coin** is a decentralized, peer-to-peer cryptocurrency built on Python, inspired by the fundamental principles of **Bitcoin (BTC)**.
 
